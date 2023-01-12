@@ -1,3 +1,6 @@
+Video link
+ * https://youtu.be/5g2GlUZUqwA
+
 AUTHOR
 ------
 CSCI 420 Computer Graphics
